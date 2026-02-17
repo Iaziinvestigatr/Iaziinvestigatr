@@ -1,5 +1,6 @@
 # 💫 Hi, I'm Jonah!
-🔭 I’m currently working on<br>      Fundamentals and polishing existing projects<br>👯 I’m looking to collaborate on<br>      Beginner–to–intermediate data-driven projects<br>🤝 I’m looking for help with<br>      Working on real-life data and making scalable models<br>🌱 I’m currently learning<br>      Core ML concepts and Data Analysis<br>
+🔭 I’m currently working on<br>      Fundamentals and polishing existing projects<br>👯 I’m looking to collaborate on<br>      Beginner–to–intermediate data-driven projects<br>🤝 I’m looking for help with<br>      Working on real-life data and making scalable models<br>🌱 I’m currently learning<br>      Core ML concepts and Data Analysis<br> ✨ Fun Fact<br>      Ever since I was a kid I wanted to transform unstructured data into actionable business insights<br>
+
 
 
 ## 🌐 Contact me:
